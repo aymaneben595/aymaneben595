@@ -37,7 +37,7 @@ The badges below reflect a **high-intermediate to solid proficiency** in my core
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-Proficient-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Skill Badge">
   <img src="https://img.shields.io/badge/SQL-Proficient-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/ETL%2FELT-Experienced-FF6B6B?style=flat" alt="ETL/ELT Skill Badge">
+  <img src="https://img.shields.io/badge/ETL%2FELT-Intermediate-FF6B6B?style=flat" alt="ETL/ELT Skill Badge">
 </p>
 
 #### Data Analysis & Visualization
@@ -51,6 +51,6 @@ The badges below reflect a **high-intermediate to solid proficiency** in my core
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Pandas-Experienced-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Skill Badge">
+  <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Skill Badge">
   <img src="https://img.shields.io/badge/Git%2FGitHub-Intermediate-181717?style=flat&logo=github&logoColor=white" alt="GitHub Skill Badge">
 </p>
