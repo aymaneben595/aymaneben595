@@ -1,7 +1,7 @@
 ## Hi there, I'm Aïmane Benkhadda! 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Business+Intelligence+Analyst;ETL+%26+Data+Pipeline+Developer;Turning+Data+into+Actionable+Insights;SQL%2C+Python%2C+%26+Power+BI+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Business+Intelligence+Analyst;ETL+%26+Data+Pipeline+Developer;Turning+Data+into+Actionable+Insights;SQL%2C+Python%2C+%26+Power+BI+Proficient" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -25,30 +25,32 @@ When I'm not working with data, you’ll usually find me trying new Power BI das
 
 - **Automotive-Car-Sales-Analytics-ETL:** Building a robust ELT pipeline (PostgreSQL/Python) to analyze car sales, customer behavior, and dealer performance, visualized in a **Dark Mode Power BI** dashboard.  
 - **Pharmaceutical-Sales-Analytics-ETL:** Developing a Pharma Sales pipeline to track representative efficiency and critical product trend analysis, visualized in a **Light Mode Power BI** dashboard.
-- **Automation & ETL:** Mastering Python scripting (`psycopg2`, `Pandas`) to automate data ingestion, cleaning, and export processes, ensuring data quality and pipeline reliability.
+- **Automation & ETL:** Practicing Python scripting (`psycopg2`, `Pandas`) to automate data ingestion, cleaning, and export processes, ensuring data quality and pipeline reliability.
 
 ---
 
 ## 🛠️ Technical Skillset
 
+The badges below reflect a **high-intermediate to solid proficiency** in my core tools, where my project work provides tangible proof of capability.
+
 #### Data Engineering & ETL/ELT
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Skill Badge">
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/ETL%2FELT-Expert-FF6B6B?style=flat" alt="ETL/ELT Skill Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-Proficient-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Proficient-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/ETL%2FELT-Experienced-FF6B6B?style=flat" alt="ETL/ELT Skill Badge">
 </p>
 
 #### Data Analysis & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Proficient-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Intermediate-4ECDC4?style=flat" alt="Data Storytelling Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-96CEB4?style=flat" alt="Statistical Analysis Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Skill Badge">
-  <img src="https://img.shields.io/badge/Git%2FGitHub-Experienced-181717?style=flat&logo=github&logoColor=white" alt="GitHub Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Pandas-Experienced-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Skill Badge">
+  <img src="https://img.shields.io/badge/Git%2FGitHub-Intermediate-181717?style=flat&logo=github&logoColor=white" alt="GitHub Skill Badge">
 </p>
