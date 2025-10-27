@@ -1,7 +1,7 @@
 ## Hi there, I'm Aïmane Benkhadda! 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Business+Intelligence+Analyst;ETL+%26+Data+Pipeline+Developer;Turning+Data+into+Actionable+Insights;Excel%2C+SQL%2C+Python%2C+%26+Power+BI+Proficient" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Business+Intelligence+Analyst;ETL+%26+Data+Pipeline+Developer;Turning+Data+into+Actionable+Insights;SQL%2C+Python%2C+%26+Power+BI+Proficient" alt="Typing SVG" />
 </div>
 
 <p align="center">
